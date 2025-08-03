@@ -1,4 +1,4 @@
-"""SQLAlchemy Query Functions"""
+"""SQLAlchemy Query Functions """
 from sqlalchemy.orm import Session
 from sqlalchemy.orm import joinedload
 from datetime import date
